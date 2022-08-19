@@ -1,1 +1,1 @@
-This is an updated readme file for Git dir 01 from ubuntu with saved credentials
+This is an updated readme file from github.com
